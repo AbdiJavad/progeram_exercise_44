@@ -13,7 +13,7 @@ public class SampleTestClass {
         assertTrue(16 == testString.length());
         assertTrue('y' == testString.charAt(1));
         //assertTrue("stt" == testString.substring(5, 9));
-        assertTrue(13==testString.indexOf("ali"));
+        assertTrue(13 == testString.indexOf("ali"));
 
     }
 
