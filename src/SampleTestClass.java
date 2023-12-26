@@ -9,7 +9,6 @@ public class SampleTestClass {
 
         String testString = "my test test ali";
 
-
         assertTrue(16 == testString.length());
         assertTrue('y' == testString.charAt(1));
         //assertTrue("stt" == testString.substring(5, 9));
