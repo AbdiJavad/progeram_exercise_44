@@ -1,4 +1,5 @@
 public class Main {
+    
     public static void main(String[] args) {
         String testString = "my test test ali";
         System.out.println(testString.length());
